@@ -14,3 +14,5 @@ function zerar() {
     // h2.innerText = h2.innerText - 1
     h2.innerText = 0
 }
+
+//https://alunoo.github.io/contador_html/
