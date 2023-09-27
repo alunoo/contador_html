@@ -19,7 +19,7 @@ section {
     gap: 10px;
     padding: 10px;
     border-radius: 15px;
-    box-shadow: 5px 5px;
+    box-shadow: 5px 5px 10px 10px rgb(128, 128, 133);
     margin: auto;
     
 }
